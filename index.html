@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Umaim & Hasnain - Elite Frontend Developers</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <link rel="shortcut icon" href="./hu.png" type="image/x-icon">
+</head>
+
+<body>
+    <!-- Custom Cursor -->
+    <div class="cursor"></div>
+    <div class="cursor-follower"></div>
+
+    <!-- Animated Background -->
+    <div class="animated-bg">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="gradient-orb orb-3"></div>
+    </div>
+
+    <!-- Grain Overlay -->
+    <div class="grain"></div>
+
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="container">
+            <div class="nav-content">
+                <div class="logo">U & H</div>
+                <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <div class="hamburger" id="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu Backdrop -->
+    <div class="mobile-menu-backdrop" id="mobileMenuBackdrop"></div>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <ul class="mobile-nav-links">
+            <li><a href="#about" class="mobile-link">About</a></li>
+            <li><a href="#skills" class="mobile-link">Skills</a></li>
+            <li><a href="#projects" class="mobile-link">Projects</a></li>
+            <li><a href="#contact" class="mobile-link">Contact</a></li>
+        </ul>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-tag">Elite Frontend Developers</div>
+                <h1>
+                    We Design <span class="gradient-text">Modern</span>, Clean &<br>
+                    <span class="gradient-text">Conversion-Focused</span> Websites
+                </h1>
+                <p class="hero-subtitle">
+                    Crafting premium web experiences that blend stunning aesthetics with powerful functionality.
+                    Your vision, elevated through expert frontend development.
+                </p>
+                <div class="cta-buttons">
+                    <a href="#projects" class="btn btn-primary">Explore Our Work</a>
+                    <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-indicator"></div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">The Team</span>
+                <h2 class="section-title">Meet Your <span class="gradient-text">Frontend Partners</span></h2>
+                <p class="section-description">
+                    Two passionate developers dedicated to transforming your digital presence
+                </p>
+            </div>
+            <div class="profiles-grid">
+                <div class="profile-card">
+                    <div class="profile-avatar"><img src="./me.jpg" alt="Umaim"></div>
+                    <h3 class="profile-name">Umaim</h3>
+                    <p class="profile-role">Senior Frontend Developer</p>
+                    <p class="profile-bio">
+                        Specializing in crafting pixel-perfect interfaces with a keen eye for design aesthetics.
+                        Expert in modern CSS architectures, responsive layouts, and creating seamless user experiences
+                        that drive engagement and conversions. Passionate about pushing the boundaries of what's
+                        possible on the web.
+                    </p>
+                </div>
+                <div class="profile-card">
+                    <div class="profile-avatar">H</div>
+                    <h3 class="profile-name">Hasnain</h3>
+                    <p class="profile-role">Senior Frontend Developer</p>
+                    <p class="profile-bio">
+                        Focused on building high-performance, accessible web applications with cutting-edge
+                        technologies.
+                        Specializes in JavaScript frameworks, animation libraries, and creating interactive experiences
+                        that captivate users. Committed to writing clean, maintainable code that scales with your
+                        business.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills" id="skills">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Expertise</span>
+                <h2 class="section-title">Our <span class="gradient-text">Technical Arsenal</span></h2>
+                <p class="section-description">
+                    Mastering the tools and technologies that power modern web experiences
+                </p>
+            </div>
+            <div class="skills-container">
+                <div class="skill-card">
+                    <div class="skill-icon"><img style="height: 40px;" src="./html css.png" alt=""></div>
+                    <h3 class="skill-name">Advanced HTML & CSS</h3>
+                    <p class="skill-description">
+                        Semantic markup, CSS Grid, Flexbox, animations, and modern styling techniques
+                        for pixel-perfect responsive layouts
+                    </p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon"><img style="height: 40px;" src="./java-script.png" alt=""></div>
+                    <h3 class="skill-name">Modern JavaScript</h3>
+                    <p class="skill-description">
+                        ES6+, DOM manipulation, async programming, and interactive features that
+                        create dynamic user experiences
+                    </p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon"><img style="height: 40px;" src="./responsive-design.png" alt=""></div>
+                    <h3 class="skill-name">Responsive Design</h3>
+                    <p class="skill-description">
+                        Mobile-first methodology ensuring flawless experiences across all devices
+                        and screen sizes
+                    </p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon"><img style="height: 40px;" src="./ui-ux.png" alt=""></div>
+                    <h3 class="skill-name">UI/UX Excellence</h3>
+                    <p class="skill-description">
+                        User-centered design principles, accessibility standards, and interfaces
+                        that delight and convert
+                    </p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon"><img style="height: 40px;" src="./interactive.png" alt=""></div>
+                    <h3 class="skill-name">Micro-Interactions</h3>
+                    <p class="skill-description">
+                        Purposeful animations, hover effects, and transitions that enhance
+                        user engagement and brand identity
+                    </p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon"><img style="height: 40px;" src="./success.png" alt=""></div>
+                    <h3 class="skill-name">Performance Optimization</h3>
+                    <p class="skill-description">
+                        Lightning-fast load times, optimized assets, and efficient code for
+                        superior user experiences
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="projects" id="projects">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Portfolio</span>
+                <h2 class="section-title">Featured <span class="gradient-text">Projects</span></h2>
+                <p class="section-description">
+                    Explore our latest work showcasing design excellence and technical expertise
+                </p>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image"><img src="./gym.png" alt="Elite Fitness Studio project preview"></div>
+                    <div class="project-content">
+                        <h3 class="project-title">Elite Fitness Studio</h3>
+                        <p class="project-description">
+                            A high-energy gym website featuring dynamic class schedules, trainer profiles,
+                            and membership plans. Built with smooth animations and bold typography to capture
+                            the brand's intensity.
+                        </p>
+                        <a href="https://gymweb-hazel.vercel.app" target="_blank" class="project-link">View Live
+                            Demo</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image"><img src="./academy.png" alt="Modern Learning Academy project preview">
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Modern Learning Academy</h3>
+                        <p class="project-description">
+                            Comprehensive educational platform with interactive course catalogs, instructor
+                            showcases, and seamless enrollment. Designed for accessibility and engaging user journeys.
+                        </p>
+                        <a href="https://learning-academy-rho.vercel.app" target="_blank" class="project-link">View Live
+                            Demo</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image"><img src="./buisness.png"
+                            alt="Premium Business Solutions project preview"></div>
+                    <div class="project-content">
+                        <h3 class="project-title">Premium Business Solutions</h3>
+                        <p class="project-description">
+                            Conversion-focused landing page for a consulting firm with compelling CTAs,
+                            service showcases, and client testimonials. Optimized for lead generation.
+                        </p>
+                        <a href="https://smart-buisness-solutions.vercel.app" target="_blank" class="project-link">View
+                            Live Demo</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us -->
+    <section class="why-us">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Why Us</span>
+                <h2 class="section-title">The <span class="gradient-text">U & H Advantage</span></h2>
+                <p class="section-description">
+                    What sets us apart in delivering exceptional web experiences
+                </p>
+            </div>
+            <div class="why-grid">
+                <div class="why-card">
+                    <div class="why-icon"><img style="height: 40px;" src="./premium design.png" alt=""></div>
+                    <h3 class="why-title">Premium Design</h3>
+                    <p class="why-description">
+                        Sophisticated aesthetics and attention to detail that elevate your brand above the competition
+                    </p>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><img style="height: 40px;" src="./device perfecttion.png" alt=""></div>
+                    <h3 class="why-title">Device Perfect</h3>
+                    <p class="why-description">
+                        Flawless experiences across smartphones, tablets, and desktops with responsive excellence
+                    </p>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><img style="height: 40px;" src="./innovation_11160320.png" alt=""></div>
+                    <h3 class="why-title">Smart Investment</h3>
+                    <p class="why-description">
+                        Professional-grade websites at competitive rates, perfect for growing businesses
+                    </p>
+                </div>
+                <div class="why-card">
+                    <div class="why-icon"><img style="height: 40px;" src="./delivery.png" alt=""></div>
+                    <h3 class="why-title">Rapid Delivery</h3>
+                    <p class="why-description">
+                        Quick turnaround times without compromising quality, keeping your project on schedule
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <div class="container">
+            <div class="contact-content">
+                <div class="section-header">
+                    <span class="section-tag">Let's Connect</span>
+                    <h2 class="section-title">Ready to <span class="gradient-text">Transform</span> Your Vision?</h2>
+                </div>
+                <p class="contact-message">
+                    Let's collaborate to build something exceptional. Whether you need a complete website
+                    or want to enhance your existing digital presence, we're here to help.
+                </p>
+                <div class="contact-buttons">
+                    <a href="https://wa.me/your-number" class="btn-contact btn-whatsapp">
+                        <span><svg style="margin-top: 10px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="35" height="35"
+                                color="#fff" fill="#00ff00" stroke="#fff" stroke-width="1.5" stroke-linejoin="round">
+                                <path
+                                    d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 13.3789 2.27907 14.6926 2.78382 15.8877C3.06278 16.5481 3.20226 16.8784 3.21953 17.128C3.2368 17.3776 3.16334 17.6521 3.01642 18.2012L2 22L5.79877 20.9836C6.34788 20.8367 6.62244 20.7632 6.87202 20.7805C7.12161 20.7977 7.45185 20.9372 8.11235 21.2162C9.30745 21.7209 10.6211 22 12 22Z" />
+                                <path
+                                    d="M8.58815 12.3773L9.45909 11.2956C9.82616 10.8397 10.2799 10.4153 10.3155 9.80826C10.3244 9.65494 10.2166 8.96657 10.0008 7.58986C9.91601 7.04881 9.41086 7 8.97332 7C8.40314 7 8.11805 7 7.83495 7.12931C7.47714 7.29275 7.10979 7.75231 7.02917 8.13733C6.96539 8.44196 7.01279 8.65187 7.10759 9.07169C7.51023 10.8548 8.45481 12.6158 9.91948 14.0805C11.3842 15.5452 13.1452 16.4898 14.9283 16.8924C15.3481 16.9872 15.558 17.0346 15.8627 16.9708C16.2477 16.8902 16.7072 16.5229 16.8707 16.165C17 15.8819 17 15.5969 17 15.0267C17 14.5891 16.9512 14.084 16.4101 13.9992C15.0334 13.7834 14.3451 13.6756 14.1917 13.6845C13.5847 13.7201 13.1603 14.1738 12.7044 14.5409L11.6227 15.4118" />
+                            </svg></span>
+                        WhatsApp Us Now
+                    </a>
+                    <a href="mailto:your.email@example.com" class="btn-contact btn-email">
+                        <span>📧</span>
+                        Send an Email
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Umaim & Hasnain. | Crafted with passion and precision. ♥ </p>
+        </div>
+    </footer>
+
+    <script src="./index.js"></script>
+</body>
+
+</html>
