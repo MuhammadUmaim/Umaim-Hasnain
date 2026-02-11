@@ -625,6 +625,10 @@
             display: block;
         }
 
+        .profiles-grid .profile-card:nth-child(2) .profile-avatar img {
+            transform: scale(1.72);
+        }
+
         @keyframes rotateGradient {
             0% {
                 filter: hue-rotate(0deg);
