@@ -1,12 +1,34 @@
 🎨 Dual Frontend Portfolio
 Modern UI. Clean Code. Professional Presence.
 
-<h2>A high-impact dual frontend portfolio website crafted to showcase UI-focused web projects and modern interface design by Umaim & Hasnain.</h2>
+## About This Portfolio
+
+A high-impact dual frontend portfolio website crafted to showcase UI-focused web projects and modern interface design by **Umaim & Hasnain**.
 
 Built for local businesses, startups, and recruiters who value clarity, performance, and elegant design.
 
-<p align="center"> <img src="https://img.shields.io/badge/Frontend-Focused-0A66C2?style=for-the-badge"> <img src="https://img.shields.io/badge/UI%2FUX-Modern-10B981?style=for-the-badge"> <img src="https://img.shields.io/badge/Responsive-100%25-8B5CF6?style=for-the-badge"> </p>
-✨ Highlights & Experience
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Focused-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UI%2FUX-Modern-10B981?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Responsive-100%25-8B5CF6?style=for-the-badge">
+</p>
+
+---
+
+## 📋 Table of Contents
+- [Highlights & Experience](#highlights--experience)
+- [Motion & Interaction Feel](#-motion--interaction-feel)
+- [Meet the Developers](#-meet-the-developers)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [Why This Portfolio](#-why-this-portfolio-exists)
+- [Live Demo](#-live-preview)
+- [Get In Touch](#-lets-work-together)
+- [License](#-license)
+
+---
+
+## ✨ Highlights & Experience
 
 ✔ Minimal & modern UI system
 ✔ Mobile-first & fully responsive
@@ -15,48 +37,72 @@ Built for local businesses, startups, and recruiters who value clarity, performa
 ✔ Performance-optimized frontend structure
 ✔ Real-world business-style layouts
 
-Designed to feel premium, not heavy.
+**Designed to feel premium, not heavy.**
 
-🎥 Motion & Interaction Feel
+---
 
-This portfolio uses:
+## 🎥 Motion & Interaction Feel
 
-• Subtle hover transitions
-• Smooth button & card animations
-• Clean scroll flow
-• Visual hierarchy for better user focus
+This portfolio showcases:
 
-✨ No over-animation. Only purposeful motion.
+• **Subtle hover transitions** – Smooth visual feedback
+• **Smooth button & card animations** – Professional micro-interactions
+• **Clean scroll flow** – Seamless page transitions
+• **Visual hierarchy** – Better user focus and navigation
 
-🧑‍💻 Meet the Developers
-👤 Umaim
+✨ **No over-animation. Only purposeful motion.**
 
-Frontend Web Developer
-Specialized in crafting clean, modern, and user-friendly interfaces with strong layout fundamentals.
+---
 
-👤 Hasnain
+## 🧑‍💻 Meet the Developers
 
-Frontend Web Developer
-Focused on responsive design, visual balance, and polished UI presentation.
+### 👤 Umaim
+**Frontend Web Developer**
 
-Together, we build interfaces that look professional and feel intuitive.
+Specialized in crafting clean, modern, and user-friendly interfaces with strong layout fundamentals. Passionate about responsive design and performance optimization.
 
-🛠️ Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat-square"> </p>
-📂 Featured Projects
+### 👤 Hasnain
+**Frontend Web Developer**
 
-🔹 Gym Website UI
-🔹 Academy / Coaching Platform
-🔹 Business Landing Page
+Focused on responsive design, visual balance, and polished UI presentation. Dedicated to creating interfaces that users love.
 
-Each project focuses on:
+> Together, we build interfaces that look professional and feel intuitive.
 
-• Real business needs
-• Clean section structure
-• Modern UI patterns
-• Practical usability
+---
 
-🎯 Why This Portfolio Exists:
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat-square">
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Gym Website UI
+A modern, high-performance fitness center website showcasing membership plans, class schedules, and trainer profiles with smooth animations and mobile-first design.
+
+**Focus:** Real business needs, clean section structure, modern UI patterns
+
+### 🔹 Academy / Coaching Platform
+Professional coaching portal with course listings, student dashboards, and instructor profiles. Emphasizes clean layouts and intuitive navigation.
+
+**Focus:** User experience, responsive design, visual hierarchy
+
+### 🔹 Business Landing Page
+Corporate landing page designed to convert visitors into leads. Features clear value propositions, testimonials, and CTAs.
+
+**Focus:** Practical usability, business impact, modern aesthetics
+
+> Each project demonstrates real-world problem-solving and professional UI/UX thinking.
+
+---
+
+## 🎯 Why This Portfolio Exists
 
 This project was created to:
 
@@ -65,26 +111,40 @@ This project was created to:
 ✔ Demonstrate UI/UX thinking, not just code
 ✔ Act as a foundation for freelance & agency work
 
-🌐 Live Preview
+---
 
-🚀 View Live Portfolio:
-👉 https://umaim-hasnain.vercel.app
+## 🌐 Live Preview
 
-📞 Let’s Work Together
+🚀 **View Live Portfolio:**
+👉 **https://umaim-hasnain.vercel.app**
 
-Looking for a clean, modern, and mobile-friendly website?
+📂 **GitHub Repository:**
+👉 **https://github.com/MuhammadUmaim/Umaim-Hasnain**
 
-📱 WhatsApp:
-• +92 317 3570107
-• +92 311 1284492
+---
 
-📧 Email:
-• hasnainwakeel0317@gmail.com
-• muhammadumaim7@gmail.com
+## 📞 Let's Work Together
 
-Simple. Professional. Effective.
+Looking for a clean, modern, and mobile-friendly website for your business?
 
-📌 License
+### 📱 WhatsApp:
+• **Umaim:** +92 317 3570107
+• **Hasnain:** +92 311 1284492
 
-Open-source for learning, inspiration, and improvement.
-Not for direct resale without permission.
+### 📧 Email:
+• **Hasnain:** hasnainwakeel0317@gmail.com
+• **Umaim:** muhammadumaim7@gmail.com
+
+**Simple. Professional. Effective.**
+
+---
+
+## 📌 License
+
+This project is **open-source** for learning, inspiration, and improvement purposes.
+
+⚠️ **Note:** Not for direct resale without permission.
+
+---
+
+**Made with ❤️ by Umaim & Hasnain**
