@@ -1,4 +1,4 @@
-🎨 Dual Frontend Portfolio
+<h1>🎨 Dual Frontend Portfolio</h1>
 Modern UI. Clean Code. Professional Presence.
 
 ## About This Portfolio
